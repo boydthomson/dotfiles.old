@@ -1,12 +1,18 @@
 Goal is to create a user experience with i3-gaps which is simple and clean, contemporary, and dark.
 
+![alt text](https://i.imgur.com/IXwWCuu.jpg)
 Wallpapers based on space themes.
 
-slock
+* Screen locked based on timeout and lid close
+* polybar with workspace icons
+* colour scheme based on wallpaper
+* transparent bar and unfocused windows
 
-polybar
-
-
+dependancies:
+*  pip3 install pywal
+*  polybar
+*  slock
+*  compton
 
 
 # dotfiles
