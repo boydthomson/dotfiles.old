@@ -10,9 +10,9 @@ Wallpapers based on space themes.
 
 dependancies:
 *  pip3 install pywal
-*  polybar
-*  slock
-*  compton
+*  [polybar](https://github.com/jaagr/polybar)
+*  apt install slock w3-img compton xautolock rofi tilda xfce4-clipman
+
 
 
 # dotfiles
